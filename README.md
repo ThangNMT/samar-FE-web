@@ -1,3 +1,3 @@
 # Samar preview
 
-![](imange/samar.png)
+![](./image/samar.png)
